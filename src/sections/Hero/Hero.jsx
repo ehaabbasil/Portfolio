@@ -44,7 +44,7 @@ function Hero() {
                 <a href= "https://x.com/ehaabbasil?lang=fa" target="_blank">
                 <img src = {twitterIcon} alt="Twitter icon" />
                 </a> 
-                <a href= "https:/github.com/ehaabbasil/" target="_blank">
+                <a href= "https://github.com//ehaabbasil/" target="_blank">
                 <img src = {githubIcon} alt="Github icon" />
                 </a>
                 <a href= "https://www.linkedin.com/in/ehaabbasil/" target="_blank">
