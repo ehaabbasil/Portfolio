@@ -7,7 +7,7 @@ function Education() {
       institution: "University of Maryland-College Park",
       date: "2022 - 2025",
       achievements: [
-        "GPA: 3.66/4.0",
+        "GPA: 3.6/4.0",
         "Machine Learning Research LLMs & Computational Imaging"
       ]
     },
@@ -16,7 +16,7 @@ function Education() {
       institution: "University of Maryland-College Park",
       date: "2018 - 2022",
       achievements: [
-        "GPA: 3.40/4.0","Machine Learning Research Assistant @MIND LAB",
+        "GPA: 3.4/4.0","Machine Learning Research Assistant @MIND LAB",
         "3 x Dean's List"
       ]
     }
